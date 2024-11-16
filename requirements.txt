@@ -1,0 +1,9 @@
+langchain
+sentence-transformers
+langchain_anthropic
+langchain-community
+jq
+langchain-huggingface
+faiss-cpu
+flask
+numpy

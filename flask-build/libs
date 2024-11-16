@@ -1,0 +1,7 @@
+pip install --upgrade --quiet langchain sentence-transformers
+pip install langchain_anthropic
+
+pip install -U langchain-community
+pip install jq
+pip install -U langchain-huggingface
+pip install faiss-cpu sentence-transformers
