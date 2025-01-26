@@ -1,3 +1,6 @@
+# 최종 완성 코드는 아래의 colab 코드를 확인해주세요.
+https://colab.research.google.com/drive/1zdTu-MzQ_rSwexDK_TnslFEvmFNpMt7O?usp=sharing
+
 # 사용법
 ※RAG.PY를 사용합니다. 나머지는 버리는 코드이며, 혹시 몰라 백업목적으로 같이 업로드합니다.
 
